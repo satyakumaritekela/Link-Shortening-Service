@@ -15,6 +15,6 @@ npm start
 ```
 
 ## Launch the application
-. http://localhost:5000/
-. Enter the Url, and click Shorten Url
-. Click the valid shorten Url response
+1. http://localhost:5000/
+2. Enter the Url, and click Shorten Url
+3. Click the valid shorten Url response
