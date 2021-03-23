@@ -14,7 +14,6 @@ npm install
 npm start
 ```
 
-## Launch the application
-1. http://localhost:5000/
-2. Enter the Url, and click Shorten Url
-3. Click the valid shorten Url response
+## Launch the application (http://localhost:5000/)
+1. Enter the Url in the text field, and click Shorten Url
+2. Click the valid shorten Url response
