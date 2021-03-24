@@ -46,11 +46,11 @@ Inorder to support 1000 concurrent requests or more, this service can be impleme
 
 3. Also, we can use the cache system for faster retrieval that also reduces the database calls.
 
-For architecture, please check https://github.com/satyakumaritekela/Link-Shortening-Service/blob/main/DS.png
+```
+
+## Architecture
 
 ![DS](https://user-images.githubusercontent.com/26082173/112240295-d24f7280-8c26-11eb-96c4-3562caf2018a.png)
-
-```
 
 ```
 4. What kind of database models do you think would cause an issue? And why?
