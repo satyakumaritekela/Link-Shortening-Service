@@ -47,7 +47,7 @@ Inorder to support 1000 concurrent requests or more, this service can be impleme
 3. Also, we can use the cache system for faster retrieval and also reduces the databse calls.
 
 
-![DS](https://user-images.githubusercontent.com/26082173/112240085-6a009100-8c26-11eb-8735-7bb6c43cc1eb.png)
+https://github.com/satyakumaritekela/Link-Shortening-Service/issues/1#issue-839255488
 
 ```
 
