@@ -45,6 +45,8 @@ Inorder to support 1000 concurrent requests or more, this service can be impleme
 2. Cluster of id generators can be managed using the distributed system that is assigned to each user to assign the id generated (for shortid) from the each system that reduces the concurrency.
 
 3. Also, we can use the cache system for faster retrieval and also reduces the databse calls.
+
+
 ```
 
 ```
